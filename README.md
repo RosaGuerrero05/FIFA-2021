@@ -1,6 +1,6 @@
-# Estructura de repositorio
+# EDA FIFA-2021
 
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+El objetivo de este repositoio es hacer un análisis de los datos obtenidos del juego de FIFA 2021
 
 La estructura que queremos que tenga este repositorio es la siguiente:
 
