@@ -1,1 +1,3 @@
-Carpeta para agregar las bases de datos originales 
+# Datos
+
+En esta carpeta se encuentra la base de datos sin ninguna manipulación
